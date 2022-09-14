@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com Compliance
 - 📚 Estudando Bancos de Dados e linguagens de programação
 - 💻 Em transição de carreira para a àrea de tecnologia relacionada a dados.
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
  ##
 
