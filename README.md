@@ -24,3 +24,7 @@
   
  
 </div>
+
+
+![snake gif](https://github.com/beatrizornelas/beatrizornelas/blob/output/github-contribution-grid-snake.svg)
+
