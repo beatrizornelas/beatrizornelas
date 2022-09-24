@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Beatriz Ornelas✨
 
 
-- 🔭 Hoje trabalho com Compliance
+- 🔭 Atualmente trabalho com Compliance
 - 📚 Estudando Bancos de Dados e linguagens de programação
 - 💻 Em transição de carreira para a àrea de tecnologia relacionada a dados.
 - 😄 Pronomes: ela/dela
