@@ -1,9 +1,8 @@
 ## Oiii, eu sou a Beatriz Ornelas✨
 
 
-- 🔭 Atualmente trabalho com Compliance
 - 📚 Estudando Bancos de Dados e linguagens de programação
-- 💻 Em transição de carreira para a àrea de tecnologia relacionada a dados.
+- 💻 Estagiária de Gestão de Infraestrutura e Segurança
 - 😄 Pronomes: ela/dela
 
  ##
