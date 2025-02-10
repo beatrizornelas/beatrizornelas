@@ -1,9 +1,8 @@
 ## Oiii, eu sou a Beatriz Ornelas✨
 
 
-- 📚 Estudando Bancos de Dados e linguagens de programação
-- 💻 Estagiária de Gestão de Infraestrutura e Segurança
-- 😄 Pronomes: ela/dela
+- 📚 Formada em Bancos de Dados e mais umas outras coisas
+- 💻 Gestora de Projetos de Infraestrutura e Segurança
 
  ##
 
