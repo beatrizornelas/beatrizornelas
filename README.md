@@ -1,4 +1,4 @@
-## Oiii, eu sou a Beatriz Ornelas✨
+## Oii, eu sou a Beatriz Ornelas✨
 
 
 - 📚 Formada em Bancos de Dados e mais umas outras coisas
